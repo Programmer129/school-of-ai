@@ -3,5 +3,6 @@
 .ipynb_checkpoints/
 **.pyc
 *.local.ipynb
+*.iml
 
 .DS_Store
